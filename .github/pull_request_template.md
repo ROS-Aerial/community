@@ -1,10 +1,3 @@
-# Working Group Modification Pull Request
-
-Use this template for all contributions to Projects or Governance of this Working Group.
-For membership changes, please instead open an issue using the appropriate issue template.
-
-Use the relevant following section and delete the rest, as well as this introduction, for this Pull Request's content.
-
 # Add Project
 
 * What is this tool?
