@@ -1,37 +1,32 @@
-# {{NAME}} Working Group
+# Aerial Robotics Working Group
 
-{{
-TEMPLATE: This repository acts as a template for individual Working Groups to start from.
-All information in double curly-braces must be replaced with details for the specific Working Group.
-NOTE: check the issue and pull request templates as well, under `.github` directory.
+*Community-driven*
 
-This is a template repository.
-When starting a new working group, [use this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to create a new repository in the WG organization.
-}}
+The goal of the aerial robotics working group is to gather aerial robotics enthusiasts within the ROS community and facilitate the sharing of ideas and discussion of issues regarding autonomous robotic platforms operating in the air. The initial focus of the group is to create an overview of the landscape of aerial robotics, including autonomy stacks, communication standards, and simulation, through the establishment of regular meetings, a website, and a literature review. The long-term roadmap of the group involves investigating standards for communication, simulation, and autonomy, and establishing a standard aerial robotics autonomy stack for ROS.
 
-This document defines the scope and governance of the Working Group (WG).
+The working group aims to focus on any (autonomous) robotic platform that operates in the air. The group plans to create a starting portal for anyone starting out in aerial robotics, like a website that describes the landscape of all things aerial robotics, like autonomy stacks, communication standards and simulators. We also aim to gather information about existing Aerial Robotics autonomy stacks, to investigate which features are currently missing in the ROS ecosystem to properly facilitate aerial robotics. The group will investigate what is missing with the current communication standard messaging or alternative communication protocols, and see if these also can be improved for swarm broadcasting. Also, we will keep oversight of aerial robotic simulation possibilities and investigate the implementation of propulsion and aerodynamics and realistic weather conditions. Moreover, as the learning curve is high in aerial robotics, providing tutorials on how to get started with Aerial robotics and ROS will be focus as well if these have not been made available yet. 
 
-{{Mission: The {{NAME}} Working Group's mission is to...}}
-
-{{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
 
 ## Subprojects
 
 This Working Group owns and maintains the following Subprojects.
 Its meetings and membership are largely focused on the direction, design, and work on the projects.
 
-### Subproject List
+### Documentation and overview
+There is currently a lot of documentation and projects related to aerial robotics. The current effort will therefore be to collect all of these in an overview of the landscape of all aerial robotic projects going on. 
 
-The following subprojects are owned by the Working Group:
+Links: TBD
 
-{{
+### Proposed subproject list
 
-* template-project
-  * Description: Brief description of project. Remove this item and add new projects using this format.
-  * Repositories
-    * link-to-repository
+Since this working group is at it’s beginning stage but here is a list of potential topics that could be created as a subproject in the future:
+* Aerial robotics simulation
+* Message standards for UAV
+* Autonomy stacks for UAVs
+* Communication for swarms of UAVs
+* Safety and management systems
+* Tutorials and education
 
-}}
 
 ### Standards for subprojects
 
@@ -74,17 +69,17 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ### Meetings
 
-* Regular WG Meeting: {{time schedule for meetings}}
-  * {{when and where will meetings be announced}}
-  * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
+* Regular WG Meeting: Montly meetings, last wednesday of the Month at 2 pm UTC
+  * The meetings will be announced on discourse at least a week in advance
+  * Recordings and meeting notes will be made available after each recording
 
 ### Communication Channels
 
-{{How can members communicate with each other? Discourse, Discord, IRC, email list, etc.}}
+For now, Discourse only, however we will discuss a chat based communication channel soon.
 
 ### Backlog Management
 
-{{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
+Github Projects
 
 ### Membership, Roles and Organization Management
 
