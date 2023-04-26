@@ -116,3 +116,4 @@ The PR will be merged on unanimous agreement from Approvers.
 * Ramone Roche - Dronecode Foundation
 * Kimberly McGuire - Bitcraze AB
 * [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
+* Mark West - TelemeThing
