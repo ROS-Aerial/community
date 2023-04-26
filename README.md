@@ -113,5 +113,5 @@ Changes to this document will be made via Pull Request.
 The PR will be merged on unanimous agreement from Approvers.
 
 ## List of Active Participants
-* Dronecode Foundation
-* Bitcraze
+* Ramone Roche - Dronecode Foundation
+* Kimberly McGuire - Bitcraze AB
