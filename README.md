@@ -111,3 +111,7 @@ The Lead role cannot be applied for, as it is an appointee of the ROS 2 TSC.
 
 Changes to this document will be made via Pull Request.
 The PR will be merged on unanimous agreement from Approvers.
+
+## List of Active Participants
+* Ramone Roche - Dronecode Foundation
+* Kimberly McGuire - Bitcraze AB
