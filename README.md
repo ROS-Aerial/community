@@ -115,3 +115,4 @@ The PR will be merged on unanimous agreement from Approvers.
 ## List of Active Participants
 * Ramone Roche - Dronecode Foundation
 * Kimberly McGuire - Bitcraze AB
+* [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
