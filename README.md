@@ -113,7 +113,7 @@ Changes to this document will be made via Pull Request.
 The PR will be merged on unanimous agreement from Approvers.
 
 ## List of Active Participants
-* Ramone Roche - Dronecode Foundation
+* [Ramon Roche](https://twitter.com/@mrpollo) - [Dronecode Foundation](https://www.dronecode.org/)
 * Kimberly McGuire - Bitcraze AB
 * [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
 * Mark West - TelemeThing
