@@ -118,3 +118,4 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
 * Mark West - TelemeThing
 * Aarsh Thakker - Laboratoire des signaux et systèmes
+* [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
