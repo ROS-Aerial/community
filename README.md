@@ -119,3 +119,4 @@ The PR will be merged on unanimous agreement from Approvers.
 * Mark West - TelemeThing
 * Aarsh Thakker - Laboratoire des signaux et systèmes
 * [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
+* [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
