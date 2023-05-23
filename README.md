@@ -6,6 +6,8 @@ The goal of the aerial robotics working group is to gather aerial robotics enthu
 
 The working group aims to focus on any (autonomous) robotic platform that operates in the air. The group plans to create a starting portal for anyone starting out in aerial robotics, like a website that describes the landscape of all things aerial robotics, like autonomy stacks, communication standards and simulators. We also aim to gather information about existing Aerial Robotics autonomy stacks, to investigate which features are currently missing in the ROS ecosystem to properly facilitate aerial robotics. The group will investigate what is missing with the current communication standard messaging or alternative communication protocols, and see if these also can be improved for swarm broadcasting. Also, we will keep oversight of aerial robotic simulation possibilities and investigate the implementation of propulsion and aerodynamics and realistic weather conditions. Moreover, as the learning curve is high in aerial robotics, providing tutorials on how to get started with Aerial robotics and ROS will be focus as well if these have not been made available yet. 
 
+Go here to [technical information](#technical-information) about the working group.
+
 
 ## Subprojects
 
@@ -124,7 +126,3 @@ Meeting information can be [found here](meetings.md).
 * Aarsh Thakker - Laboratoire des signaux et systèmes
 * [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
 * [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
-
-
-
-
