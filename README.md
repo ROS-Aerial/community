@@ -112,7 +112,11 @@ The Lead role cannot be applied for, as it is an appointee of the ROS 2 TSC.
 Changes to this document will be made via Pull Request.
 The PR will be merged on unanimous agreement from Approvers.
 
-## List of Active Participants
+## Technical information
+
+Meeting information can be [found here](meetings.md).
+
+### List of Active Participants
 * [Ramon Roche](https://twitter.com/@mrpollo) - [Dronecode Foundation](https://www.dronecode.org/)
 * Kimberly McGuire - Bitcraze AB
 * [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
@@ -120,3 +124,7 @@ The PR will be merged on unanimous agreement from Approvers.
 * Aarsh Thakker - Laboratoire des signaux et systèmes
 * [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
 * [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
+
+
+
+
