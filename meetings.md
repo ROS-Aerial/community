@@ -5,12 +5,12 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 
 ## Upcoming meetings
 
-* [Wed 24th of May, 2 PM UTC](https://discourse.ros.org/t/may-2023-meetings-aerial-robotics/31231/4) Developer meeting - Tutorials & Education
-* Wed 7th of June, 2 PM UTC: Scientific presentation - tba
-
+* Wed 7th of June, 2 PM UTC: Scientific presentation - topic tba
+* Web 21th of June, 2 PM UTC: Developer meeting - topic tba
 
 ## Past meetings w. notes slidees and recordings
 
+* [Wed 24th of May, 2 PM UTC](https://discourse.ros.org/t/may-2023-meetings-aerial-robotics/31231/5) Developer meeting - Tutorials & Education
 * [Wed 10th of May, 2 PM UTC](https://discourse.ros.org/t/may-2023-meetings-aerial-robotics/31231/3) : Scientific presentation - Aerostack2
 * [Wed 26th of April, 2 PM UTC](https://discourse.ros.org/t/start-up-meeting-aerial-robotics-wg/30869/4) : Startup meeting & Aerial Autonomy stacks
 * [Wed 21th of March, 2 PM UTC](https://discourse.ros.org/t/first-explorative-meeting-aerial-robotics/29955/16) : First explorative meeting
