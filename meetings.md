@@ -5,7 +5,7 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 
 ## Upcoming meetings
 
-* Wed 7th of June, 2 PM UTC: Scientific presentation - topic tba
+* [Wed 7th of June, 2 PM UTC](https://discourse.ros.org/t/june-2023-meetings-aerial-robotics/31718): Scientific presentation - topic Drone4Bats
 * Web 21th of June, 2 PM UTC: Developer meeting - topic tba
 
 ## Past meetings w. notes slidees and recordings
