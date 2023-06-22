@@ -6,7 +6,8 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 ## Upcoming meetings
 
 * [Wed 7th of July, 2 PM UTC]: Scientific presentation - Vehicle Gateway
-* Wed 14th of July, 2 PM UTC: Developer meeting - topic tba
+* **Summer break**
+* Wed 14th of August, 2 PM UTC: Developer meeting - topic tba
   
 ## Past meetings w. notes slides and recordings
 * [Wed 21th of June, 2 PM UTC](https://discourse.ros.org/t/june-2023-meetings-aerial-robotics/31718/7): Developer meeting - topic Swarm management
