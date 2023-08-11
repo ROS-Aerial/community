@@ -4,10 +4,11 @@
 
 The goal of the aerial robotics working group is to gather aerial robotics enthusiasts within the ROS community and facilitate the sharing of ideas and discussion of issues regarding autonomous robotic platforms operating in the air. The initial focus of the group is to create an overview of the landscape of aerial robotics, including autonomy stacks, communication standards, and simulation, through the establishment of regular meetings, a website, and a literature review. The long-term roadmap of the group involves investigating standards for communication, simulation, and autonomy, and establishing a standard aerial robotics autonomy stack for ROS.
 
-The working group aims to focus on any (autonomous) robotic platform that operates in the air. The group plans to create a starting portal for anyone starting out in aerial robotics, like a website that describes the landscape of all things aerial robotics, like autonomy stacks, communication standards and simulators. We also aim to gather information about existing Aerial Robotics autonomy stacks, to investigate which features are currently missing in the ROS ecosystem to properly facilitate aerial robotics. The group will investigate what is missing with the current communication standard messaging or alternative communication protocols, and see if these also can be improved for swarm broadcasting. Also, we will keep oversight of aerial robotic simulation possibilities and investigate the implementation of propulsion and aerodynamics and realistic weather conditions. Moreover, as the learning curve is high in aerial robotics, providing tutorials on how to get started with Aerial robotics and ROS will be focus as well if these have not been made available yet. 
+The working group aims to focus on any (autonomous) robotic platform that operates in the air. The group plans to create a starting portal for anyone starting out in aerial robotics, like a website that describes the landscape of all things aerial robotics, like autonomy stacks, communication standards, and simulators. We also aim to gather information about existing Aerial Robotics autonomy stacks, to investigate which features are currently missing in the ROS ecosystem to properly facilitate aerial robotics. The group will investigate what is missing with the current communication standard messaging or alternative communication protocols, and see if these also can be improved for swarm broadcasting. Also, we will keep oversight of aerial robotic simulation possibilities and investigate the implementation of propulsion and aerodynamics and realistic weather conditions. Moreover, as the learning curve is high in aerial robotics, providing tutorials on how to get started with Aerial robotics and ROS will be the focus as well if these have not been made available yet. 
 
-Go here to [technical information](#technical-information) about the working group.
+Meetings information can be [found here](meetings.md).
 
+A list of active participants can be [found here](#list-of-active-participants).
 
 ## Subprojects
 
@@ -114,11 +115,7 @@ The Lead role cannot be applied for, as it is an appointee of the ROS 2 TSC.
 Changes to this document will be made via Pull Request.
 The PR will be merged on unanimous agreement from Approvers.
 
-## Technical information
-
-Meeting information can be [found here](meetings.md).
-
-### List of Active Participants
+# List of Active Participants
 * [Ramon Roche](https://twitter.com/@mrpollo) - [Dronecode Foundation](https://www.dronecode.org/)
 * Kimberly McGuire - Bitcraze AB
 * [Miguel Fernandez-Cortizas](https://github.com/miferco97) - CVAR-UPM
