@@ -1,5 +1,11 @@
 # Meetings
 We will be having biweekly meetings on Wednesday given on the [ROS community event calender](https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=UTC). 
+<details>
+  <summary>
+    Add Calendar to your Google Calendar
+  </summary>
+If you want to add the calendar to your Google Calendar you can follow the link above and click on a small button in the bottom right of the page "+ Google Calendar".
+</details>
 
 We will announce the meeting topics on ROS Discourse on the [Aerial vehicle category](https://discourse.ros.org/c/aerial-vehicles/14)
 
