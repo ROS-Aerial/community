@@ -12,9 +12,10 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 ## Upcoming meetings
 
 * **Summer break**
-* Wed 16th of August, 2 PM UTC: Developer meeting - [topic message standards](https://discourse.ros.org/t/august-2023-meetings-aerial-robotics/32809)
+* Wed 30th of August, 2 PM UTC: Scientific presentation - [Tutorial and education overview](https://discourse.ros.org/t/august-2023-meetings-aerial-robotics/32809/7)
   
 ## Past meetings w. notes slides and recordings
+* [Wed 16th of August, 2 PM UTC](https://discourse.ros.org/t/august-2023-meetings-aerial-robotics/32809/5): Developer meeting - topic Message standards
 * [Wed 7th of July, 2 PM UTC](https://discourse.ros.org/t/summer-2023-meetings-aerial-robotics/32131/3): Scientific presentation - Vehicle Gateway
 * [Wed 21th of June, 2 PM UTC](https://discourse.ros.org/t/june-2023-meetings-aerial-robotics/31718/7): Developer meeting - topic Swarm management
 * [Wed 7th of June, 2 PM UTC](https://discourse.ros.org/t/june-2023-meetings-aerial-robotics/31718/2): Scientific presentation - Drone4Bats
