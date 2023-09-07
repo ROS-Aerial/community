@@ -10,7 +10,7 @@ If you want to add the calendar to your Google Calendar you can follow the link 
 We will announce the meeting topics on ROS Discourse on the [Aerial vehicle category](https://discourse.ros.org/c/aerial-vehicles/14)
 
 ## Upcoming meetings
-* Wed 13th of September, 2 PM UTC: Developer meeting
+* [Wed 13th of September](https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270), 2 PM UTC: Developer meeting - Hardware, Components and Dev kits
 * Wed 27th of September, 2 PM UTC: Scientific meeting
 
 ## Past meetings w. notes slides and recordings
