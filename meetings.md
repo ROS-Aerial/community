@@ -10,10 +10,11 @@ If you want to add the calendar to your Google Calendar you can follow the link 
 We will announce the meeting topics on ROS Discourse on the [Aerial vehicle category](https://discourse.ros.org/c/aerial-vehicles/14)
 
 ## Upcoming meetings
-* [Wed 13th of September](https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270), 2 PM UTC: Developer meeting - Hardware, Components and Dev kits
-* Wed 27th of September, 2 PM UTC: Scientific meeting
+* [Wed 27th of September](https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270/4), 2 PM UTC: Scientific meeting - Duckiedrone
+* Wed 11th of October, 2 PM UTC: Developer meeting - Simulation
 
 ## Past meetings w. notes slides and recordings
+* [Wed 13th of September]([https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270](https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270/3)), 2 PM UTC: Developer meeting - Hardware, Components and Dev kits
 * [Wed 30th of August, 2 PM UTC](https://discourse.ros.org/t/august-2023-meetings-aerial-robotics/32809/8): Scientific presentation - Tutorial and education overview
 * [Wed 16th of August, 2 PM UTC](https://discourse.ros.org/t/august-2023-meetings-aerial-robotics/32809/5): Developer meeting - topic Message standards
 * [Wed 7th of July, 2 PM UTC](https://discourse.ros.org/t/summer-2023-meetings-aerial-robotics/32131/3): Scientific presentation - Vehicle Gateway
