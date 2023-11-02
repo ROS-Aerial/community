@@ -9,9 +9,13 @@ If you want to add the calendar to your Google Calendar you can follow the link 
 
 We will announce the meeting topics on ROS Discourse on the [Aerial vehicle category](https://discourse.ros.org/c/aerial-vehicles/14)
 
+Also check out this github project for an alternative view of the planned meetings: https://github.com/orgs/ROS-Aerial/projects/2
+
 ## Upcoming meetings
-* Wed 25th of October, Cancelled!
-* Wed 8th of November, 2 PM UTC: Scientific meeting - PX4
+* [Wed 8th of November](https://discourse.ros.org/t/november-2023-meetings-aerial-robotics/34432), 2 PM UTC: Scientific meeting - PX4
+* Wed 22th of November, 2 PM UTC: Developer meeting - 3D planning
+* Wed 6th of December, 2 PM UTC: Scientifc meeting - Ardupilot
+* Wed 20th of December, 2 PM UTC: Developer meeting - Status so far 
 
 ## Past meetings w. notes slides and recordings
 * [Wed 11th of October](https://discourse.ros.org/t/october-2023-meetings-aerial-robotics/33910/3): Developer meeting - Simulation
