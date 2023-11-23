@@ -12,11 +12,11 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 Also check out this github project for an alternative view of the planned meetings: https://github.com/orgs/ROS-Aerial/projects/2
 
 ## Upcoming meetings
-* [Wed 22th of November](https://discourse.ros.org/t/november-2023-meetings-aerial-robotics/34432/5), 3 PM UTC: Developer meeting - 3D planning
-* Wed 6th of December, 3 PM UTC: Scientifc meeting - Ardupilot
+* Wed 6th of December, 3 PM UTC: Scientifc meeting - Ardupilot and ROS
 * Wed 20th of December, 3 PM UTC: Developer meeting - Status so far 
 
 ## Past meetings w. notes slides and recordings
+* [Wed 22th of November](https://discourse.ros.org/t/november-2023-meetings-aerial-robotics/34432/7): Developer meeting - 3D planning
 * [Wed 8th of November](https://discourse.ros.org/t/november-2023-meetings-aerial-robotics/34432/4): Scientific meeting - Pixhawk
 * [Wed 11th of October](https://discourse.ros.org/t/october-2023-meetings-aerial-robotics/33910/3): Developer meeting - Simulation
 * [Wed 27th of September](https://discourse.ros.org/t/september-2023-meetings-aerial-robotics/33270/5): Scientific meeting - Duckiedrone
