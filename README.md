@@ -124,3 +124,4 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
 * [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
 * [Bonolo Mathibela](https://twitter.com/@bonolomathibela) - Spacetime Consulting
+* [Mayank Joneja](https://github.com/botmayank) - [Vimaan.ai](https://vimaan.ai/)
