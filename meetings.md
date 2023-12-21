@@ -13,6 +13,8 @@ Also check out this github project for an alternative view of the planned meetin
 
 ## Upcoming meetings
 * Wed 3rd of January, 2024, 3 pm UTC: Developer meeting - Plans for new year
+* Wed 17th of January, 2024, 3 pm UTC: Scientific meeting - TBD
+* Wed 31th of January, 2024, 3 pm UTC: Developer meeting - TBD
 
 ## Past meetings w. notes slides and recordings
 * [Wed 20th of December](https://discourse.ros.org/t/december-2023-meetings-aerial-robotics/34910/5): Developer meeting - Status so far 
