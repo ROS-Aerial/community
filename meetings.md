@@ -12,7 +12,7 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 Also check out this github project for an alternative view of the planned meetings: https://github.com/orgs/ROS-Aerial/projects/2
 
 ## Upcoming meetings
-* Wed 3rd of January, 2024, 3 pm UTC: Developer meeting - Plans for new year
+* Wed 3rd of January, 2024, 3 pm UTC Developer meeting **Canceled!**
 * Wed 17th of January, 2024, 3 pm UTC: Scientific meeting - TBD
 * Wed 31th of January, 2024, 3 pm UTC: Developer meeting - TBD
 
