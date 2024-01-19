@@ -125,3 +125,4 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
 * [Bonolo Mathibela](https://twitter.com/@bonolomathibela) - Spacetime Consulting
 * [Mayank Joneja](https://github.com/botmayank) - [Vimaan.ai](https://vimaan.ai/)
+* [Michael Razoumovitch] (https://github.com/MichaelRazum)
