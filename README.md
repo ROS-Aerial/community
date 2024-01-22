@@ -28,7 +28,7 @@ Here is a list of subprojects that are active right now:
 
 ### Proposed subproject list
 
-Since this working group is at its beginning stage but here is a list of potential topics that could be created as a subproject in the future:
+The working groups are just starting. Here is a list of potential topics that could be created as subprojects in the future:
 * 3D indoor navigation
 * Simulation
 * Standard development/research drone
