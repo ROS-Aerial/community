@@ -104,7 +104,7 @@ Quick chats, meeting reminders, subcommittee communication or just for fun shari
 
 ### Membership, Roles and Organization Management
 
-Since the aerial ros working group is community driven, it will not follow the official guidelines. Currently of now we just have the following roles:
+Since the ROS Aerial working group is community-driven, it will not follow the official guidelines. Currently of now we just have the following roles:
 - Facilitators/Leads: Organize and moderating meetings. Setup facilitation of the subcommittees
 - Members: Joining the meetings, participate with discussions. Although not necessary to be a member, they can also propose and/or join subcommitteers
 
