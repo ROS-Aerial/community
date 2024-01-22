@@ -32,7 +32,7 @@ The working groups are just starting. Here is a list of potential topics that co
 * 3D indoor navigation
 * Simulation
 * Standard development/research drone
-* Communication standard
+* Communication standards
 * Documentation (Aerial landscape)
 * Content and tutorial
 * Safety
