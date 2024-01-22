@@ -105,30 +105,33 @@ Quick chats, meeting reminders, subcommittee communication or just for fun shari
 ### Membership, Roles and Organization Management
 
 Since the ROS Aerial working group is community-driven, it will not follow the official guidelines. Currently of now we just have the following roles:
-- Facilitators/Leads: Organize and moderating meetings. Setup facilitation of the subcommittees
-- Members: Joining the meetings, participate with discussions. Although not necessary to be a member, they can also propose and/or join subcommitteers
+- Facilitators/Leads: Organize and moderating meetings. Setup facilitation of the subcommittees.
+- Members: Joining the meetings, participate with discussions. Although not necessary to be a member, they can also propose and/or join subcommittees.
 
+Since this repo not yet have any development repositories, anyone member of this ROS-aerial organization can review and merge PRs. 
+We do aim to try to use Pull Requests for any suggestions such that there is a good history.
 
 These rules are for the official TSC assigned working group here for reference:
+
 _Working Group members may act in one or more of the following roles:_
 
-_* **Member**_
-  _* Prerequisite: Attend at least one out of the last three Working Group meetings_
-  _* Responsible for triaging issues_
-_* **Reviewer**_
-  _* All reviewers are members_
-  _* Prerequisite: Proven track record of high-quality reviews to WG Subprojects_
-  _* Responsible for reviewing pull requests_
-_* **Approver**_
-  _* All approvers are reviewers_
-  _* Prerequisite: Proven track record of high-quality contributions and reviews to WG Subprojects_
-  _* Responsible for approving and merging pull requests_
-  _* Responsible for vetting and accepting new projects into the Working Group_
-_* **Lead**
-  _* TSC member or their delegate_
-  _* Responsible for organizing and moderating working group meetings_
-  _* Responsible for posting meeting materials (minutes, recordings, etc.)_
-  _* Responsible for breaking ties_
+* _**Member**_
+   *  _Prerequisite: Attend at least one out of the last three Working Group meetings_
+   *  _Responsible for triaging issues_
+*  _**Reviewer**_
+   *  _All reviewers are members_
+   *  _Prerequisite: Proven track record of high-quality reviews to WG Subprojects_
+   *  _Responsible for reviewing pull requests_
+*  _**Approver**_
+   *  _All approvers are reviewers_
+   *  _Prerequisite: Proven track record of high-quality contributions and reviews to WG Subprojects_
+   *  _Responsible for approving and merging pull requests_
+   *  _Responsible for vetting and accepting new projects into the Working Group_
+*  _**Lead**_
+   *  _TSC member or their delegate_
+   *  _Responsible for organizing and moderating working group meetings_
+   *  _Responsible for posting meeting materials (minutes, recordings, etc.)_
+   *  _Responsible for breaking ties_
 
 _To become a member or change role, create an issue in this repository using the appropriate issue template.
 Such applications are accepted upon unanimous agreement from Approvers, and are typically based on the applicant's history with the subprojects of the Working Group.
