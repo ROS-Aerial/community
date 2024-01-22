@@ -20,7 +20,7 @@ Its meetings and membership are largely focused on the direction, design, and wo
 ### Documentation and overview
 There is currently a lot of documentation and projects related to aerial robotics. The current effort will therefore be to collect all of these in an overview of the landscape of all aerial robotic projects going on. 
 
-Please go to the Robotic Aerial Landscape repository: https://github.com/ROS-Aerial/aerial_robotic_landscape 
+Please go to the [Robotic Aerial Landscape repository](https://github.com/ROS-Aerial/aerial_robotic_landscape). 
 
 ### Active Subprojects
 Here is a list of subprojects that are active right now:
