@@ -109,7 +109,7 @@ Since the ROS Aerial working group is community-driven, it will not follow the o
 - Members: Joining the meetings, participate with discussions. Although not necessary to be a member, they can also propose and/or join subcommitteers
 
 
-These rules are for the official TC assigned working group here for reference:
+These rules are for the official TSC assigned working group here for reference:
 _Working Group members may act in one or more of the following roles:_
 
 _* **Member**_
