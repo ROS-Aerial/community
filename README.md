@@ -86,7 +86,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ### Meetings
 
-* Regular WG Meeting: Biweekly meetings, at 3 pm UTC
+* Regular WG Meeting: Biweekly meetings, typically at 3 pm UTC
   * The meetings will be announced on discourse at least a week in advance
   * Recordings and meeting notes will be made available after each recording
   * These announcements will be done on [the official ROS discourse with the wg-aerial-robotics tag](https://discourse.ros.org/tag/wg-aerial-robotics)
