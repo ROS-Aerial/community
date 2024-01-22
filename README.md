@@ -43,7 +43,7 @@ Since the Aerial Robotics working group is community driven we will not follow t
 
 The subprojects should at least have:
 * A github project about the topic that needs to be updated with the latest important issues and PRs
-* At least 2 people should be interested in working on this topic
+* At least two people should be interested in working on this topic
 * A document about the topic should exist in /subprojects/ folder
 
 These are the criteria that official working group assigned by the TC must follow:
