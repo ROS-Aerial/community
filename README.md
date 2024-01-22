@@ -46,7 +46,7 @@ The subprojects should at least have:
 * At least two people should be interested in working on this topic
 * A document about the topic should exist in /subprojects/ folder
 
-These are the criteria that official working group assigned by the TC must follow:
+These are the criteria that official working group assigned by the TSC must follow:
 _Subprojects must meet the following criteria (and the WG agrees to maintain them upon adoption)._
 
 * _Build passes against ROS 2 master_
