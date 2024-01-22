@@ -42,7 +42,7 @@ The working groups are just starting. Here is a list of potential topics that co
 Since the Aerial Robotics working group is community driven we will not follow the normal standards for subprojects but some other defined ones.
 
 The subprojects should at least have:
-* A github project about the topic that needs to be updated with the latest important PRs
+* A github project about the topic that needs to be updated with the latest important issues and PRs
 * At least 2 people should be interested in working on this topic
 * A document about the topic should exist in /subprojects/ folder
 
