@@ -12,9 +12,12 @@ We will announce the meeting topics on ROS Discourse on the [Aerial vehicle cate
 Also check out this github project for an alternative view of the planned meetings: https://github.com/orgs/ROS-Aerial/projects/2
 
 ## Upcoming meetings
-* Wed 31th of January, 2024, 3 pm UTC: Scientific meeting - Crazyflie
+* Wed 17th of February, 2024, 3 pm UTC: Developer meeting
+* Wed 28th of February, 2024, 3 pm UTC: Scientific Meeting
+* Wed 13th of March, 2024, 3 pm UTC: Developer meeting
 
 ## Past meetings w. notes slides and recordings
+* [Wed 17th of January, 2024](https://discourse.ros.org/t/january-2024-meetings-aerial-robotics/35342/10): Scientific meeting - Crazyflie
 * [Wed 17th of January, 2024](https://discourse.ros.org/t/january-2024-meetings-aerial-robotics/35342/4): Developer meeting - Plans for the new year
 * [Wed 20th of December](https://discourse.ros.org/t/december-2023-meetings-aerial-robotics/34910/5): Developer meeting - Status so far 
 * [Wed 6th of December](https://discourse.ros.org/t/december-2023-meetings-aerial-robotics/34910/2): Scientifc meeting - Ardupilot and ROS
