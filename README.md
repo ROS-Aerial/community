@@ -108,7 +108,7 @@ Since the ROS Aerial working group is community-driven, it will not follow the o
 - Facilitators/Leads: Organize and moderating meetings. Setup facilitation of the subcommittees.
 - Members: Joining the meetings, participate with discussions. Although not necessary to be a member, they can also propose and/or join subcommittees.
 
-Since this repo not yet have any development repositories, anyone member of this ROS-aerial organization can review and merge PRs. 
+Since this repo not yet have any development repositories, anyone can request write access to a repo to review and merge PRs. 
 We do aim to try to use Pull Requests for any suggestions such that there is a good history.
 
 These rules are for the official TSC assigned working group here for reference:
