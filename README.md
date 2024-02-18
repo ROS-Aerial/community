@@ -153,4 +153,5 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Bonolo Mathibela](https://twitter.com/@bonolomathibela) - Spacetime Consulting
 * [Mayank Joneja](https://github.com/botmayank) - [Vimaan.ai](https://vimaan.ai/)
 * [Michael Razoumovitch] (https://github.com/MichaelRazum)
+* [Khalid Elmadawi](https://github.com/SigmaEmbeddedEngineering-eg) - [Sigma group](https://www.sigma.se/)
 
