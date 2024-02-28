@@ -26,6 +26,7 @@ Please go to the [Robotic Aerial Landscape repository](https://github.com/ROS-Ae
 Here is a list of subprojects that are active right now:
 * [3D outdoor planning](subprojects/outdoor_3d_planning.md)
 * [Documentation](subprojects/documentation.md)
+* [Indoor navigation](subprojects/indoor_navigation.md)
 
 ### Proposed subproject list
 
