@@ -27,12 +27,12 @@ Here is a list of subprojects that are active right now:
 * [3D outdoor planning](subprojects/outdoor_3d_planning.md)
 * [Documentation](subprojects/documentation.md)
 * [Indoor navigation](subprojects/indoor_navigation.md)
+* [Simulation](subprojects/simulation.md)
 
 ### Proposed subproject list
 
-The working groups are just starting. Here is a list of potential topics that could be created as subprojects in the future:
-* 3D indoor navigation
-* Simulation
+ Here is a list of other potential topics that could be created as subprojects in the future:
+
 * Standard development/research drone
 * Communication standards
 * Documentation (Aerial landscape)
