@@ -14,7 +14,7 @@ Developers in the ROS Aerial Working Group keep track of their work for outdoor 
                                                                                                                  
 ## Repositories
 
-The following are a list of repositories closely related to outdoor 3D planning.
+The following are a list of repositories closely related to Documentation.
 
 * [Aerial Robotics landscape](https://github.com/ROS-Aerial/aerial_robotic_landscape)
 
