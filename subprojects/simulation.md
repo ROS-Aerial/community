@@ -15,7 +15,21 @@ Developers in the ROS Aerial Working Group keep track of their work for simulati
 
 ## Repositories
 
-TBD
+### ArduPilot
+
+The following repositories include interfaces to the simulators and models configured to work with ArduPilot.
+
+* [ardupilot](https://github.com/ArduPilot/ardupilot)
+* [ardupilot_gazebo](https://github.com/ArduPilot/ardupilot_gazebo)
+* [ardupilot_gz](https://github.com/ArduPilot/ardupilot_gz)
+* [SITL_Models](https://github.com/ArduPilot/SITL_Models)
+
+### PX4
+
+[Supported simulators for PX4](https://docs.px4.io/main/en/simulation/#supported-simulators) include [Gazebo](https://docs.px4.io/main/en/sim_gazebo_gz/), [Gazebo Classic](https://docs.px4.io/main/en/sim_gazebo_classic/) and [jMAVSim](https://docs.px4.io/main/en/sim_jmavsim/). The following repositories include interfaces to the simulators and models configured to work with PX4. 
+
+* [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+* [PX4-gazebo-models](https://github.com/PX4/PX4-gazebo-models)
 
 ## How to get involved?
 
