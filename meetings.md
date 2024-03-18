@@ -13,12 +13,12 @@ Also check out this github project for an alternative view of the planned meetin
 
 ## Upcoming meetings
 
-* [Wed 13th of March, 2024, 3 pm UTC: Developer meeting](https://discourse.ros.org/t/march-2024-meetings-aerial-robotics/36495)
 * Wed 27th of March, 2024, 3PM UTC: Presentation - Gazebo and Aerial Robotics
 * Wed 10th of April, 2024, 3PM UTC:  Developer meeting
 * Wed 24th of April, 2024, 3PM UTC: Presentation - Terrain Navigation
 
 ## Past meetings w. notes slides and recordings
+* [Wed 13th of March, 2024, 3 pm UTC: Developer meeting](https://discourse.ros.org/t/march-2024-meetings-aerial-robotics/36495/3)
 * [Wed 28th of February, 2024, 3 pm UTC: Discussion Meeting - Message standards](https://discourse.ros.org/t/february-2024-meetings-aerial-robotics/35981/4)
 * [Wed 14th of February, 2024: Developer meeting](https://discourse.ros.org/t/february-2024-meetings-aerial-robotics/35981/3)
 * [Wed 17th of January, 2024](https://discourse.ros.org/t/january-2024-meetings-aerial-robotics/35342/10): Scientific meeting - Crazyflie
