@@ -13,7 +13,7 @@ Also check out this github project for an alternative view of the planned meetin
 
 ## Upcoming meetings
 
-* Wed 27th of March, 2024, 3PM UTC: Presentation - Gazebo and Aerial Robotics
+* [Wed 27th of March, 2024, 3PM UTC: Presentation - Gazebo and Aerial Robotics](https://discourse.ros.org/t/march-2024-meetings-aerial-robotics/36495/4)
 * Wed 10th of April, 2024, 3PM UTC:  Developer meeting
 * Wed 24th of April, 2024, 3PM UTC: Presentation - Terrain Navigation
 
