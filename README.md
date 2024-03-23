@@ -156,4 +156,5 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Mayank Joneja](https://github.com/botmayank) - [Vimaan.ai](https://vimaan.ai/)
 * [Michael Razoumovitch](https://github.com/MichaelRazum)
 * [Khalid Elmadawi](https://github.com/SigmaEmbeddedEngineering-eg) - [Sigma group](https://www.sigma.se/)
+* [Rafi S.M](https://github.com/rafism1997)
 
