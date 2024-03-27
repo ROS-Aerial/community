@@ -152,7 +152,7 @@ The PR will be merged on unanimous agreement from Approvers.
 * Aarsh Thakker - Laboratoire des signaux et systèmes
 * [Ryan Friedman](https://github.com/Ryanf55) - ArduPilot
 * [Ganapathi Naayagam](https://github.com/SGN-047) - [Aviators International](https://teamaviatorsinternational.in/#/)
-* [Bonolo Mathibela](https://twitter.com/@bonolomathibela) - Spacetime Consulting
+* [Bonolo Mathibela](https://github.com/idorobotics) - Spacetime Consulting
 * [Mayank Joneja](https://github.com/botmayank) - [Vimaan.ai](https://vimaan.ai/)
 * [Michael Razoumovitch](https://github.com/MichaelRazum)
 * [Khalid Elmadawi](https://github.com/SigmaEmbeddedEngineering-eg) - [Sigma group](https://www.sigma.se/)
