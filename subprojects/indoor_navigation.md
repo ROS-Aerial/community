@@ -29,7 +29,7 @@ TBD
 [comment]: <> (Keep sorted alphabetically please)
 
 * [botmayank](https://github.com/botmayank)
-* [Bonolo Mathibela](idorobotics)
+* [Bonolo Mathibela](https://github.com/idorobotics)
 * [knmcguire](https://github.com/knmcguire)
 * [khalid elmadawi](https://github.com/khaledelmadawi)
 * [Rafi SM](https://github.com/rafism1997)
