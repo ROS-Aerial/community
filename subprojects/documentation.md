@@ -31,5 +31,6 @@ The following members have been active contributors in the past year. The list m
 
 [comment]: <> (Keep sorted alphabetically please)
 
+* [Alexis Guijarro](https://github.com/toton95)
 * [Kimberly McGuire](https://github.com/knmcguire)
 * [Ramon Roche](https://github.com/mrpollo)
