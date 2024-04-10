@@ -13,9 +13,10 @@ Also check out this github project for an alternative view of the planned meetin
 
 ## Upcoming meetings
 
-
 * [Wed 10th of April, 2024, 3PM UTC:  Developer meeting](https://discourse.ros.org/t/april-2024-meetings-aerial-robotics/37021)
 * Wed 24th of April, 2024, 3PM UTC: Presentation - Terrain Navigation
+* Wed 8th of May, 2024, 4PM UTC: Developer meeting
+* Wed 22th of May, 2024, 4PM UTC: Presentation - Flapper drones
 
 ## Past meetings w. notes slides and recordings
 * [Wed 27th of March, 2024, 3PM UTC: Presentation - Gazebo and Aerial Robotics](https://discourse.ros.org/t/march-2024-meetings-aerial-robotics/36495/5)
