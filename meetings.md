@@ -13,11 +13,19 @@ Also check out this github project for an alternative view of the planned meetin
 
 ## Upcoming meetings
 
+Check out [this project page for the upcoming meetings](https://github.com/orgs/ROS-Aerial/projects/2/views/3?filterQuery=has%3Astatus+status%3Atodo)
 
-* [Wed 8th of May, 2024, 4PM UTC: Developer meeting](https://discourse.ros.org/t/may-2024-meetings-aerial-robotics/37520)
-* Wed 22th of May, 2024, 4PM UTC: Presentation - Flapper drones
+## Open presentation slots
+
+You can check the [presentation meeting slots in the future]( https://github.com/orgs/ROS-Aerial/projects/2/views/3?filterQuery=no%3Astatus). If you'd like to be assigned to one, place a comment in the attached open issue. 
 
 ## Past meetings w. notes slides and recordings
+Checkout the past presentations in [this project page](https://github.com/orgs/ROS-Aerial/projects/2/views/3?filterQuery=has%3Astatus+status%3Adone) 
+
+
+## Archive
+We used to post all past meetings in here but we do no longer do so.
+* [Wed 8th of May, 2024, 4PM UTC: Developer meeting](https://discourse.ros.org/t/may-2024-meetings-aerial-robotics/37520)
 * [Wed 24th of April, 2024, 4PM UTC: Presentation - Terrain Navigation](https://discourse.ros.org/t/april-2024-meetings-aerial-robotics/37021/5)
 * [Wed 10th of April, 2024, 4PM UTC:  Developer meeting](https://discourse.ros.org/t/april-2024-meetings-aerial-robotics/37021/3)
 * [Wed 27th of March, 2024, 4PM UTC: Presentation - Gazebo and Aerial Robotics](https://discourse.ros.org/t/march-2024-meetings-aerial-robotics/36495/5)
