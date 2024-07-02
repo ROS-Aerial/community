@@ -158,4 +158,5 @@ The PR will be merged on unanimous agreement from Approvers.
 * [Khalid Elmadawi](https://github.com/SigmaEmbeddedEngineering-eg) - [Sigma group](https://www.sigma.se/)
 * [Rafi S.M](https://github.com/rafism1997)
 * [Alexis Guijarro](https://github.com/TOTON95) - [3DR, Inc.](https://www.3dr.com/)
+* [Srivenkateshwar Iyer](https://github.com/Srivenkateshwar) - e-Yantra
 
