@@ -97,7 +97,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 Any news to be shared, meeting announcements or discussion points should be on the [Aerial Vehicles category on ROS discourse](https://discourse.ros.org/c/aerial-vehicles/).
 
-Quick chats, meeting reminders, subcommittee communication or just for fun sharing is on the [#cwg-aerial channel in the ROS discord Server](https://discord.com/channels/1077825543698927656/1141902822254850128)
+Quick chats, meeting reminders, subcommittee communication or just for fun sharing is on the [ROS Aerial Discord Channel (Open Robotics Server)](https://discord.gg/open-robotics-1077825543698927656).
 
 
 ### Backlog Management
